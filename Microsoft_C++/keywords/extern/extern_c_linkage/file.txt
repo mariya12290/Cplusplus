@@ -1,0 +1,1 @@
+in extern keyword is also used to build the linkage with c variables or headers
